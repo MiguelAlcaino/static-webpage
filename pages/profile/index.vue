@@ -6,7 +6,9 @@
           <tr v-for="i in 10" :key="i">
             <th>User</th>
             <td>
-              <nuxt-link :to="{name: 'profile-id', params: {id: i}}">{{i}}</nuxt-link>
+              <nuxt-link :to="{ name: 'profile-id', params: { id: i } }">{{
+                i
+              }}</nuxt-link>
             </td>
           </tr>
         </tbody>
