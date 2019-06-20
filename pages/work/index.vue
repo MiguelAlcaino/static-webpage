@@ -20,7 +20,10 @@
         <div class="container">
           <h1 class="title">
             Backend Developer
-            <a class="link is-info" href="http://www.buzzradar.com/" target="_blank"
+            <a
+              class="link is-info"
+              href="http://www.buzzradar.com/"
+              target="_blank"
               >@Buzz Radar</a
             >
           </h1>
